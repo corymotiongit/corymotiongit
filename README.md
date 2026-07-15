@@ -1,54 +1,59 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=CoryMotion&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%C2%B7%20Real-time%20Media%20%C2%B7%20Creative%20Engineering&descSize=17&descAlignY=57" width="100%"/>
+<img src="assets/banner.gif" width="100%"/>
 
-<h1 align="center">
-  Hi, I'm Cory
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" alt="wave" />
-</h1>
+<br>
+
+<h2 align="center"> 👨‍🚀 <em>About me</em> </h2>
+
+<img src="assets/astronaut.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello There! <em><b>I'm Cory</b></em>, a creative technologist working at the intersection of AI, video and real-time media. I build generative pipelines for image, video and voice, plus the automation that glues it all together.
+</p>
+
+<br/>
 
 <p align="center">
-  <a href="https://github.com/corymotiongit">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=AI+%C2%B7+Video+%C2%B7+Real-time+Media;Generative+pipelines+%E2%80%94+image%2C+video%2C+voice;Automation-first+creative+engineering" alt="typing intro" />
-  </a>
+   🧠 <em><b> Generative AI — image, video &amp; voice pipelines </b></em><br/>
+   ⚡ <em><b> Real-time media — streaming, WebRTC, GPU-accelerated inference </b></em><br/>
+   🛠️ <em><b> If it can be scripted, it gets scripted </b></em><br/>
+   🔒 <em><b> Most of my work lives in private repos (for now) </b></em><br/>
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="coding" />
+<br/>
+<br/>
 
-## 🌟 About me
+<h2 align="center"> ⚙️ <em>Technologies</em> </h2>
 
-Creative technologist working at the intersection of **AI, video and real-time media**.
-
-- 🧠 Generative AI — image, video and voice pipelines
-- ⚡ Real-time media — streaming, WebRTC, GPU-accelerated inference
-- 🛠️ Automation-first — if it can be scripted, it gets scripted
-- 🔒 Most of my work lives in private repos (for now)
-
-<br clear="right"/>
-
-## 🧰 Stack
-
-**Languages & Core**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,nodejs,astro,powershell,bash&perline=9" alt="languages" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ComfyUI-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-000000?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-**AI & Media**
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/ComfyUI-1a1a2e?style=for-the-badge&logoColor=white" alt="ComfyUI" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
-  <img src="https://img.shields.io/badge/LiveKit-FF3366?style=for-the-badge&logoColor=white" alt="LiveKit" />
-</p>
+<h2 align="center"> 📊 <em>Statistics</em> </h2>
 
-**Tools & Infra**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vscode&perline=9" alt="tools" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=corymotiongit&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=444444&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=corymotiongit&background=000000&border=444444&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" height="180"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=corymotiongit&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+</div>
