@@ -1,10 +1,10 @@
-<img src="assets/banner.gif" width="100%"/>
+<img src="assets/banner.png" width="100%"/>
 
 <br>
 
 <h2 align="center"> 👨‍🚀 <em>About me</em> </h2>
 
-<img src="assets/astronaut.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="assets/snake.jpg" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
