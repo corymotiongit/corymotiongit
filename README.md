@@ -52,8 +52,8 @@
 <h2 align="center"> 📊 <em>Statistics</em> </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corymotiongit&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=444444&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=corymotiongit&background=000000&border=444444&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=corymotiongit&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=444444&rank_icon=github" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=corymotiongit&background=000000&border=444444&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" height="180"/>
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=corymotiongit&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
