@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=white" />
   <img src="https://img.shields.io/badge/WebRTC-000000?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
