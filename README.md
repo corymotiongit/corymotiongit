@@ -2,7 +2,7 @@
 
 <br>
 
-<h2 align="center"> 👨‍🚀 <em>About me</em> </h2>
+<h2 align="center"> <em>About me</em> </h2>
 
 <img src="assets/snake.jpg" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -14,16 +14,16 @@
 <br/>
 
 <p align="center">
-   🧠 <em><b> Generative AI — image, video &amp; voice pipelines </b></em><br/>
-   ⚡ <em><b> Real-time media — streaming, WebRTC, GPU-accelerated inference </b></em><br/>
-   🛠️ <em><b> If it can be scripted, it gets scripted </b></em><br/>
-   🔒 <em><b> Most of my work lives in private repos (for now) </b></em><br/>
+   <em><b> Generative AI — image, video &amp; voice pipelines </b></em><br/>
+   <em><b> Real-time media — streaming, WebRTC, GPU-accelerated inference </b></em><br/>
+   <em><b> If it can be scripted, it gets scripted </b></em><br/>
+   <em><b> Most of my work lives in private repos (for now) </b></em><br/>
 </p>
 
 <br/>
 <br/>
 
-<h2 align="center"> ⚙️ <em>Technologies</em> </h2>
+<h2 align="center"> <em>Technologies</em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -49,7 +49,7 @@
 
 <br/>
 
-<h2 align="center"> 📊 <em>Statistics</em> </h2>
+<h2 align="center"> <em>Statistics</em> </h2>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=corymotiongit&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=444444&rank_icon=github" height="180"/>
